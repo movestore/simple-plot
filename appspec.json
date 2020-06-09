@@ -1,4 +1,28 @@
 {
-  "settings":
-  []
+  "settings": [],
+  "dependencies": {
+    "R": [
+      {
+        "name": "shiny"
+      },
+      {
+        "name": "leaflet"
+      },
+      {
+        "name": "leaflet.extras"
+      },
+      {
+        "name": "move"
+      },
+      {
+        "name": "sp"
+      },
+      {
+        "name": "pals"
+      },
+      {
+        "name": "mapview"
+      }
+    ]
+  }
 }
